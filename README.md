@@ -1,6 +1,4 @@
-Hello world!
-
-I'll add more info about me later, just wanted to put this up to remind myself it's a thing I can do.
+Hey, welcome. Come on in.
 
 I sporadically post updates on [my blog][blog].
 
@@ -8,6 +6,19 @@ I sporadically post updates on [my blog][blog].
 
 I've written plenty of Zsh plugins, especially ones which extend Zsh's Vi Mode.
 Those can be found at the organization [@zsh-vi-more][zvm].
+
+## Matrix
+
+I've helped develop [Hemppa, a Matrix bot][hemppa].
+It's being used extensively in Jupiter Broadcasting's Matrix rooms.
+At some point, might graduate to become JBot-matrix.
+
+## Dotfiles
+
+I moved my dotfiles to Gitlab a few years back during the MS acquisition,
+[you can find them here](https://gitlab.com/xPMo/dotfiles.cli).
+
+Highlights include some unique Sway and Zsh config, as well as some 
 
 ## Where else you can find me
 
